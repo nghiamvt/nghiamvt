@@ -1,4 +1,4 @@
-<h1 align="center">Helping people make the world a better place through quality software!</h1>
+<h3 align="center">Helping people make the world a better place through quality software!</h3>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
