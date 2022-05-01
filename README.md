@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nghia!</h1>
+<h1 align="center">Helping people make the world a better place through quality software!</h1>
 <br>
-
-<h3 align="center">Helping people make the world a better place through quality software!</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
